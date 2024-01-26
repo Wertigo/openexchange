@@ -1,0 +1,14 @@
+{
+    "name": "kdswto/openexchange",
+    "autoload": {
+        "psr-4": {
+            "Openexchange\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniil Karnaukhov"
+        }
+    ],
+    "require": {}
+}
